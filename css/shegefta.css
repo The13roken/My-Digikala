@@ -1,0 +1,357 @@
+div.gholdor{
+    width: 100%;
+    height: 600px;
+    background-color: #EF3E54;
+    position: relative;
+}
+div.gholdor>div.shegeft{
+    width: 1672px;
+    height: 209px;
+    margin: auto;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.418);
+}
+div.gholdor>div.shegeft>div.dozd{
+    width: 1672px;
+    height: 104px;
+    position: absolute;
+    top: 104px;
+}
+div.gholdor>div.shegeft>div.dozd:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box{
+    width: 1672px;
+    height: 410px;
+    margin: auto;
+    position: relative;
+}
+div.gholdor>div.box>img{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+div.gholdor>div.box>div.rook1{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 195px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook1>img{
+    margin-top: 10px
+}
+div.gholdor>div.box>div.rook1:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook2:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook3:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook4:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook5:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook6:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook7:hover{
+    cursor: pointer;
+}
+div.gholdor>div.box>div.rook2{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 400px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook2>img{
+    margin-top: 10px
+}
+div.gholdor>div.box>div.rook3{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 600px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook3>img{
+    margin-top: 10px
+}
+div.gholdor>div.box>div.rook4{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 800px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook4>img{
+    margin-top: 10px
+}
+div.gholdor>div.box>div.rook5{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 1000px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook5>img{
+    margin-top: 10px
+}
+div.gholdor>div.box>div.rook6{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 1200px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook6>img{
+    margin-top: 10px
+}
+div.gholdor>div.box>div.rook7{
+    width: 192px;
+    height: 375px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    right: 1400px;
+    top: 5px;
+}
+div.gholdor>div.box>div.rook7>img{
+    margin-top: 10px
+}
+/* ----------------------------------------roo be etmam ---------------------------------------- */
+div.shotor{
+    position: relative;
+    width: 100%;
+    height: 450px;
+    margin-top: 15px;
+}
+div.shotor>div.motor{
+    width: 1400px;
+    height: 420px;
+    margin: auto;
+    position: relative;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+div.shotor>div.motor>div.fotor{
+    width: 100%;
+    height: 50px;
+    font-family: fa;
+}
+div.shotor>div.motor>div.fotor>div.cover{
+    width: 70px;
+    border-bottom: 2px solid #EF3E54;
+    position: absolute;
+    right: 15px;
+    top: 48px;
+}
+div.shotor>div.motor>div.fotor>h4{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+div.shotor>div.motor>div.bruh1{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+
+    right: 10px;
+    top: 55px;
+    border-left: 1px solid lightgray;
+}
+div.shotor>div.motor>div.bruh2{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+
+    right: 210px;
+    top: 55px;
+    border-left: 1px solid lightgray;
+}
+div.shotor>div.motor>div.bruh3{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+
+    right: 410px;
+    top: 55px;
+    border-left: 1px solid lightgray;
+}
+div.shotor>div.motor>div.bruh4{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+
+    right: 610px;
+    top: 55px;
+    border-left: 1px solid lightgray;
+}
+div.shotor>div.motor>div.bruh5{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+
+    right: 810px;
+    top: 55px;
+    border-left: 1px solid lightgray;
+}
+div.shotor>div.motor>div.bruh6{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+
+    right: 1010px;
+    top: 55px;
+    border-left: 1px solid lightgray;
+}
+div.shotor>div.motor>div.bruh7{
+    width: 185px;
+    height: 345px;
+    position: absolute;
+    right: 1210px;
+    top: 55px;
+}
+/* ----------------------------------supir markit --------------------------------------------- */
+div.markit{
+    width: 100%;
+    height: 130px;
+    position: relative;
+}
+div.markit>div.velamkon{
+    width: 1400px;
+    height: 130px;
+    margin: auto;
+}
+div.markit>div.velamkon>a>img{
+    border-radius: 10px;
+}
+/* --------------------------------khaste shodam jedi ---------------------------------------------- */
+div.ree{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+div.ree>div.reee{
+    width: 1400px;
+    height: 40px;
+    margin: auto;
+    position: relative;
+}
+
+div.ree>div.reee>h3{
+    position: absolute;
+    font-family: fa;
+    right:0;
+}
+/* ---------------------------------oon balayi e ASHGHAL! ------------------------------------------------------ */
+div.zee{
+    width: 100%;
+    height: 50px;
+    position: relative;
+    direction: rtl;
+    font-family: fa;
+    text-decoration: none;
+    font-size: 14px;
+}
+div.zee>div.zeee{
+    width: 1400px;
+    height: 40px;
+    margin: auto;
+    position: relative;
+    border-bottom: 1px solid lightgray;
+}
+div.zee>div.zeee>a{
+    color: black;
+}
+div.zee>div.zeee>a.ghirmiz{
+    color: red;
+}
+div.zee>div.zeee>p{
+    position: absolute;
+    left: 0;
+    top:0;
+}
+/* ---------------------------------The End??? --------------------------------------------------- */
+div.theend{
+    width: 100%;
+    height: 490px;
+    position: relative;
+}
+div.theend>div.dasta{
+    width: 1400px;
+    height: 480px;
+    margin: auto;
+    position: relative;
+}
+div.theend>div.dasta>div.bala1{
+    width: 280px;
+    height: 470px;
+    position: absolute;
+    right: 0px;
+    border-left: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+div.theend>div.dasta>div.bala1:hover{
+    box-shadow: 5px 5px 5px 5px gray;
+}
+div.theend>div.dasta>div.bala2{
+    width: 280px;
+    height: 470px;
+    position: absolute;
+    right: 280px;
+    border-left: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+div.theend>div.dasta>div.bala2:hover{
+    box-shadow:5px 5px 5px 5px gray;
+}
+div.theend>div.dasta>div.bala3{
+    width: 280px;
+    height: 470px;
+    position: absolute;
+    right: 560px;
+    border-left: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+div.theend>div.dasta>div.bala3:hover{
+    box-shadow: 2px 5px 5px 5px gray;
+}
+div.theend>div.dasta>div.bala4{
+    width: 280px;
+    height: 470px;
+    position: absolute;
+    right: 838px;
+    border-left: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+div.theend>div.dasta>div.bala4:hover{
+    box-shadow: 2px 5px 5px 5px gray;
+}
+div.theend>div.dasta>div.bala5{
+    width: 280px;
+    height: 470px;
+    position: absolute;
+    right: 1115px;
+    border-bottom: 1px solid lightgray;
+}
+div.theend>div.dasta>div.bala5:hover{
+    box-shadow: 2px 5px 5px 5px gray;
+}
+

@@ -1,0 +1,1713 @@
+div.wow{
+    position: relative;
+    margin: 10px auto;
+    width: 1200px;
+    height: 300px;
+    background-color: #EF3C52 ;
+    border-radius: 15px;
+    padding: 20px 20px 10px 20px;
+}
+div.wow>div.rastia{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+div.wow>div.rastia>img:hover{
+    cursor: pointer;
+}
+div.wow>div.swiper {
+  width: 85%;
+  height: 80%;
+  position: absolute;
+  left: 10px;
+  top: 30px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+div.wow ~ .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+div.wow>div.swiper-slide img {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+div.wow ~ .swiper {
+  width: 100%;
+  height: 300px;
+  margin: 20px auto;
+}
+div.wow>div.append-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+div.wow>div.append-buttons button {
+  display: inline-block;
+  cursor: pointer;
+  border: 1px solid #007aff;
+  color: #007aff;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  margin: 0 10px;
+  font-size: 13px;
+}
+/* ----------------------------------------------------Supermarket------------------------------------------------------- */
+div.super{
+    width: 1200px;
+    height: 100px;
+    background-color: #EEF1F0;
+    margin: 10px auto;
+    border-radius: 15px;
+    object-fit: cover;
+    position: relative;
+}
+div.super>img{
+    width: 100%;
+    height: 100px;
+}
+div.super>img:hover{
+    cursor: pointer;
+}
+/* -----------------------------------------------un 4 ta --------------------------------------------------------------- */
+div.fourboi{
+    width: 100%;
+    height: 250px;
+    align-items: center;
+    position: relative;
+    margin-top: 15px;
+}
+div.fourboi>figure>img{
+    width: 300px;
+    margin-left: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+div.fourboi>figure>img:hover{
+    cursor: pointer;
+}
+/* -----------------------------------------------------daste bandi ----------------------------------------------------------- */
+div.daste{
+    width: 98%;
+    height: 550px;
+    display: inline-block;
+    margin: 0 1%;
+}
+
+div.daste>h2{
+    font-family: fa;
+}
+
+div.daste>div:nth-of-type(1){
+    width: 100%;
+    height: 40%;
+    display: inline-block;
+    margin-bottom: 40px;
+    text-align: center;
+}
+div.daste>div:nth-of-type(2){
+    width: 100%;
+    height: 40%;
+    display: inline-block;
+    text-align: center;
+
+}
+div.daste>div>a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    margin: 0 0.5%;
+
+}
+div.daste>div>a>figure{
+    display: inline-block;
+    position: relative;
+
+}
+div.daste>div>a>figure>img{
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+
+}
+div.daste>div>a>figure>figcaption{
+ width: 180px;
+display: block;
+font-family: fa;
+position: absolute;
+text-align: center;
+font-size: 16px;
+}
+/* -------------------------------------------ooon 2 ta------------------------------------------------------ */
+div.twoboi{
+    width: 100%;
+    height: 270px;
+}
+div.twoboi>figure>img{
+    width: 600px;
+    margin-left: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+div.twoboi>figure>img:hover{
+    cursor: pointer;
+}
+/* -------------------------------------------pishnehiiiiid-------------------------------------------------- */
+div.pishnehad{
+    width: 100%;
+    height: 400px;
+}
+div.pishnehad>h2{
+    font-family: fa;
+}
+div.pishnehad>div.pipi{
+    width: 1500px;
+    height: 310px;
+    margin: 20px auto;
+    border: 1px dotted lightgray;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+div.pishnehad>div.pipi>div.poopoo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+    border-left: 1px dotted lightgray;
+    border-bottom: 0.5px dotted lightgray;
+}
+div.pishnehad>div.pipi>div.popo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+    border-bottom: 0.5px dotted lightgray;
+}
+div.pishnehad>div.pipi>div.poopoo>figure>div.papa{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.pipi>div.poopoo>figure>div.papa>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.pipi>div.poopoo>figure>div.papa>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.pipi>div.poopoo>figure>div.papa>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+div.pishnehad>div.pipi>div.popo>figure>div.papa{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.pipi>div.popo>figure>div.papa>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.pipi>div.popo>figure>div.papa>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.pipi>div.popo>figure>div.papa>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+/* --- part 2 --- */
+div.pishnehad>div.pipi>div.booboo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+    border-left: 1px dotted lightgray;
+}
+div.pishnehad>div.pipi>div.bobo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+}
+div.pishnehad>div.pipi>div.booboo>figure>div.baba{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.pipi>div.booboo>figure>div.baba>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.pipi>div.booboo>figure>div.baba>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.pipi>div.booboo>figure>div.baba>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+div.pishnehad>div.pipi>div.bobo>figure>div.baba{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.pipi>div.bobo>figure>div.baba>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.pipi>div.bobo>figure>div.baba>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.pipi>div.bobo>figure>div.baba>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+div.pishnehad>div.pipi:hover{
+    cursor: pointer;
+
+}
+/* ---------------------------------------------------mahboobs ;) (noice) ------------------------------ */
+div.mahboobs{
+    width: 100%;
+    height: 300px;
+
+}
+div.mahboobs>div.mahbib{
+    width: 1300px;
+    height: 250px;
+    margin: 20px auto;
+    border: 1px dotted lightgrey;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+div.mahboobs>div.mahbib>div.mahbob{
+    width: 100%;
+    height: 70px;
+
+}
+div.mahboobs>div.mahbib>div.mahbob>h2{
+    font-family: fa;
+    margin-top: 20px;
+}
+div.mahboobs>div.mahbib>div.mahbob>h2>img{
+    width: 30px;
+    height: 30px;
+}
+div.mahboobs>div.mahbib>div.mahbeb{
+    width: 100%;
+    height: 150px;
+    border-radius: 15px;
+
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    position: relative;
+}
+div.mahboobs>div.mahbib>div.mahbeb>div.mahbub{
+    width: 98%;
+    margin-left: 10px;
+    height: 150px;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 90px;
+}
+div.mahboobs>div.mahbib>div.mahbeb>div.mahbub>figure>img{
+    width: auto;
+    height: auto;
+    display: inline-block;
+}
+div.mahboobs>div.mahbib>div.mahbeb>div.mahbub>figure>img:hover{
+    cursor: pointer;
+}
+/* -----------------------------------------------4 ta 4 ta --------------------------------------------- */
+div.fourtai{
+    width: 100%;
+    height: 480px;
+    position: relative;
+}
+div.fourtai>div.subfour{
+    width: 1500px;
+    height: 450px;
+    margin: 20px auto;
+    border: 1px dotted lightgrey;
+    border-radius: 15px;
+    position: relative;
+}
+div.fourtai>div.subfour>div.subsubfour1{
+    width: 24%;
+    height: 450px;
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 10px;
+    border-right: 1px dotted lightgrey;
+}
+div.fourtai>div.subfour>div.subsubfour1>div.neveshte{
+    width: 100%;
+    height: 7vh;
+    direction: rtl;
+    position: relative;
+    z-index: 1;
+}
+div.fourtai>div.subfour>div.subsubfour1>div.neveshte>h3{
+    font-family: fa;
+    margin-right: 40px;
+
+}
+div.fourtai>div.subfour>div.subsubfour1>div.neveshte>p{
+    font-family: fa;
+    margin-right: 42px;
+    font-size: small;
+    color: grey;
+    padding-bottom: 30px;
+
+}
+div.fourtai>div.subfour>div.subsubfour1>div.mohtava{
+    width: 100%;
+    position: relative;
+}
+div.fourtai>div.subfour>div.subsubfour1>div.mohtava>figure{
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
+div.fourtai>div.subfour>div.subsubfour1>div.mohtava>figure>figcaption{
+    font-family: fa;
+    direction: rtl;
+    position: absolute;
+    left: 110px;
+    color: #6ABFD3;
+}
+div.fourtai>div.subfour>div.subsubfour1>div.mohtava>figure:hover{
+    cursor: pointer;
+}
+div.fourtai>div.subfour>div.subsubfour2{
+    width: 24%;
+    height: 450px;
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 375px;
+    border-right: 1px dotted lightgrey;
+}
+div.fourtai>div.subfour>div.subsubfour2>div.neveshte{
+    width: 100%;
+    height: 7vh;
+    direction: rtl;
+    position: relative;
+    z-index: 1;
+}
+div.fourtai>div.subfour>div.subsubfour2>div.neveshte>h3{
+    font-family: fa;
+    margin-right: 40px;
+
+}
+div.fourtai>div.subfour>div.subsubfour2>div.neveshte>p{
+    font-family: fa;
+    margin-right: 42px;
+    font-size: small;
+    color: grey;
+    padding-bottom: 30px;
+
+}
+div.fourtai>div.subfour>div.subsubfour2>div.mohtava{
+    width: 100%;
+    position: relative;
+}
+div.fourtai>div.subfour>div.subsubfour2>div.mohtava>figure{
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
+div.fourtai>div.subfour>div.subsubfour2>div.mohtava>figure>figcaption{
+    font-family: fa;
+    direction: rtl;
+    position: absolute;
+    left: 110px;
+    color: #6ABFD3;
+}
+div.fourtai>div.subfour>div.subsubfour2>div.mohtava>figure:hover{
+    cursor: pointer;
+}
+div.fourtai>div.subfour>div.subsubfour3{
+    width: 24%;
+    height: 450px;
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 740px;
+    border-right: 1px dotted lightgrey;
+}
+div.fourtai>div.subfour>div.subsubfour3>div.neveshte{
+    width: 100%;
+    height: 7vh;
+    direction: rtl;
+    position: relative;
+    z-index: 1;
+}
+div.fourtai>div.subfour>div.subsubfour3>div.neveshte>h3{
+    font-family: fa;
+    margin-right: 40px;
+
+}
+div.fourtai>div.subfour>div.subsubfour3>div.neveshte>p{
+    font-family: fa;
+    margin-right: 42px;
+    font-size: small;
+    color: grey;
+    padding-bottom: 30px;
+
+}
+div.fourtai>div.subfour>div.subsubfour3>div.mohtava{
+    width: 100%;
+    position: relative;
+}
+div.fourtai>div.subfour>div.subsubfour3>div.mohtava>figure{
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
+div.fourtai>div.subfour>div.subsubfour3>div.mohtava>figure>figcaption{
+    font-family: fa;
+    direction: rtl;
+    position: absolute;
+    left: 110px;
+    color: #6ABFD3;
+}
+div.fourtai>div.subfour>div.subsubfour3>div.mohtava>figure:hover{
+    cursor: pointer;
+}
+div.fourtai>div.subfour>div.subsubfour4{
+    width: 24%;
+    height: 450px;
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 1110px;
+
+}
+div.fourtai>div.subfour>div.subsubfour4>div.neveshte{
+    width: 100%;
+    height: 7vh;
+    direction: rtl;
+    position: relative;
+    z-index: 1;
+}
+div.fourtai>div.subfour>div.subsubfour4>div.neveshte>h3{
+    font-family: fa;
+    margin-right: 50px;
+
+}
+div.fourtai>div.subfour>div.subsubfour4>div.neveshte>p{
+    font-family: fa;
+    margin-right: 52px;
+    font-size: small;
+    color: grey;
+    padding-bottom: 30px;
+
+}
+div.fourtai>div.subfour>div.subsubfour4>div.mohtava{
+    width: 100%;
+    position: relative;
+}
+div.fourtai>div.subfour>div.subsubfour4>div.mohtava>figure{
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
+div.fourtai>div.subfour>div.subsubfour4>div.mohtava>figure>figcaption{
+    font-family: fa;
+    direction: rtl;
+    position: absolute;
+    left: 110px;
+    color: #6ABFD3;
+}
+div.fourtai>div.subfour>div.subsubfour4>div.mohtava>figure:hover{
+    cursor: pointer;
+}
+/* -------------------------------------------------Digi plus --------------------------------------- */
+div.digiplus{
+    width: 100%;
+    height: 420px ;
+}
+div.digiplus>div.plus{
+    width: 1200px;
+    height: 400px;
+    background-color: #941B80;
+    margin: 5px auto;
+    border-radius: 15px;
+    position: relative;
+}
+div.digiplus>div.plus>div.membership{
+    width: 120px;
+    height: 35px;
+    position: absolute;
+    right: 25px;
+    top: 110px;
+    z-index: 1;
+}
+div.digiplus>div.plus>div.membership:hover{
+    cursor: pointer;
+}
+div.digiplus>div.plus>div.membership>h4{
+    font-family: fa;
+    color: white;
+}
+div.digiplus>div.plus>div.chert{
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 100px;
+    right: 20px;
+}
+div.digiplus>div.plus>div.diigii{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+
+}
+div.digiplus>div.plus>div.diigii:hover{
+    cursor: pointer;
+}
+div.digiplus>div.plus>div.services{
+    position: absolute;
+    top: 60px;
+    right: 25px;
+}
+div.digiplus>div.plus>div.services>p{
+    color: white;
+    font-family: fa;
+    font-size: medium;
+}
+div.digiplus>div.plus>div.mahsool1{
+    width: 370px;
+    height: 360px;
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius:15px;
+}
+div.digiplus>div.plus>div.mahsool1>div.head1{
+    width: 50%;
+    height: 20px;
+    margin-top: 15px;
+    z-index: 1;
+    position: absolute;
+    right: 0;
+}
+div.digiplus>div.plus>div.mahsool1>div.head1>h3{
+    font-family: fa;
+    margin-right: 12px;
+}div.digiplus>div.plus>div.mahsool1>div.head1>h3>i{
+    color: #941B80 ;
+}
+div.digiplus>div.plus>div.mahsool1>div.head2{
+    width: 50%;
+    height: 20px;
+    margin-top: 20px;
+    z-index: 1;
+    position: absolute;
+    left: 0;
+}
+div.digiplus>div.plus>div.mahsool1>div.head2>a{
+    font-family: fa;
+    text-decoration: none;
+    color: #941B80 ;
+    margin-left: 12px;
+}
+div.digiplus>div.plus>div.mahsool1>div.inup{
+    width: auto;
+    height: 150px;
+
+    position: absolute;
+    top: 70px;
+    left: 0px;
+}
+div.digiplus>div.plus>div.mahsool1>div.inup>figure{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+}
+div.digiplus>div.plus>div.mahsool1>div.inup>figure>img{
+    width: inherit;
+    height: inherit;
+}
+div.digiplus>div.plus>div.mahsool1>div.inup>figure>img:hover{
+    cursor: pointer;
+}
+div.digiplus>div.plus>div.mahsool1>div.indown{
+    width: auto;
+    height: 150px;
+
+    position: absolute;
+    top: 200px;
+    left: 0px;
+}
+div.digiplus>div.plus>div.mahsool1>div.indown>figure{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+}
+div.digiplus>div.plus>div.mahsool1>div.indown>figure>img{
+    width: inherit;
+    height: inherit;
+}
+div.digiplus>div.plus>div.mahsool1>div.indown>figure>img:hover{
+    cursor: pointer;
+}
+div.digiplus>div.plus>div.mahsool2{
+    width: 370px;
+    height: 360px;
+    background-color: white;
+    position: absolute;
+    left: 400px;
+    top: 20px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius:15px;
+}
+div.digiplus>div.plus>div.mahsool2>div.head1{
+    width: 50%;
+    height: 20px;
+    margin-top: 15px;
+    z-index: 1;
+    position: absolute;
+    right: 0;
+}
+div.digiplus>div.plus>div.mahsool2>div.head1>h3{
+    font-family: fa;
+    margin-right: 12px;
+}div.digiplus>div.plus>div.mahsool2>div.head1>h3>i{
+    color: #941B80 ;
+}
+div.digiplus>div.plus>div.mahsool2>div.head2{
+    width: 50%;
+    height: 20px;
+    margin-top: 20px;
+    z-index: 1;
+    position: absolute;
+    left: 0;
+}
+div.digiplus>div.plus>div.mahsool2>div.head2>a{
+    font-family: fa;
+    text-decoration: none;
+    color: #941B80 ;
+    margin-left: 12px;
+}
+div.digiplus>div.plus>div.mahsool2>div.inup{
+    width: auto;
+    height: 150px;
+
+    position: absolute;
+    top: 70px;
+    left: 0px;
+}
+div.digiplus>div.plus>div.mahsool2>div.inup>figure{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+}
+div.digiplus>div.plus>div.mahsool2>div.inup>figure>img{
+    width: inherit;
+    height: inherit;
+}
+div.digiplus>div.plus>div.mahsool2>div.inup>figure>img:hover{
+    cursor: pointer;
+}
+div.digiplus>div.plus>div.mahsool2>div.indown{
+    width: auto;
+    height: 150px;
+
+    position: absolute;
+    top: 200px;
+    left: 0px;
+}
+div.digiplus>div.plus>div.mahsool2>div.indown>figure{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+}
+div.digiplus>div.plus>div.mahsool2>div.indown>figure>img{
+    width: inherit;
+    height: inherit;
+}
+div.digiplus>div.plus>div.mahsool2>div.indown>figure>img:hover{
+    cursor: pointer;
+}
+
+/* --------------------------------------------digiclub-------------------------------------------------- */
+div.cloob{
+    width: 100%;
+    height: 130px;
+    position: relative;
+}
+div.cloob>div.digiclub{
+    width: 1200px;
+    height: 110px;
+    background-color: #007295;
+    margin: 10px auto;
+    border-radius: 15px;
+    position: relative;
+}
+div.cloob>div.digiclub>div.l1{
+    position: absolute;
+    width: 250px;
+    height: 70px;
+    top: 20px;
+    left: 15px;
+
+}
+div.cloob>div.digiclub>div.l1>img{
+    width: 250px;
+    height: 70px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+div.cloob>div.digiclub>div.l1>img:hover{
+    cursor: pointer;
+}
+div.cloob>div.digiclub>div.l2{
+    position: absolute;
+    width: 250px;
+    height: 70px;
+    top: 20px;
+    left: 270px;
+
+}
+div.cloob>div.digiclub>div.l2>img{
+    width: 250px;
+    height: 70px;
+    
+}
+div.cloob>div.digiclub>div.l2>img:hover{
+    cursor: pointer;
+}
+div.cloob>div.digiclub>div.l3{
+    position: absolute;
+    width: 250px;
+    height: 70px;
+    top: 20px;
+    left: 525px;
+}
+div.cloob>div.digiclub>div.l3>img{
+    width: 250px;
+    height: 70px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+div.cloob>div.digiclub>div.l3>img:hover{
+    cursor: pointer;
+}
+div.cloob>div.digiclub>div.club{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    top: 30px;
+    right: 20px;
+}
+div.cloob>div.digiclub>div.club>img{
+    width: 130px;
+    height: 40px;
+}
+div.cloob>div.digiclub>div.club>img:hover{
+    cursor: pointer;
+}
+/* ----------------------------------------Por Foroosh ha ----------------------------------------------- */
+div.topf{
+    width: 100%;
+    height: 450px;
+    font-family: fa;
+}
+div.topf>div.foroosh{
+    width: 1200px;
+    height: 410px;
+
+    margin: 10px auto;
+    border: 1px dotted lightgrey;
+    border-radius: 15px;
+    position: relative;
+}
+div.topf>div.foroosh>div.head1{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+}
+div.topf>div.foroosh>div.head1>h2{
+    font-family: fa;
+}
+div.topf>div.foroosh>div.head1>h2>i{
+    color: #FBC977;
+}
+div.topf>div.foroosh>div.head2{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 10px;
+    top: 12px;
+}
+div.topf>div.foroosh>div.head2>a{
+    text-decoration: none;
+    color: #6ABFD3;
+    font-family: fa;
+}
+div.topf>div.foroosh>div.m1{
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    top: 60px;
+}
+div.topf>div.foroosh>div.m1:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m1>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m1>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m1>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 160px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m2{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 0;
+    top: 180px;
+}
+div.topf>div.foroosh>div.m2:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m2>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m2>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px
+}
+div.topf>div.foroosh>div.m2>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 160px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m3{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 0;
+    top: 300px;
+}
+div.topf>div.foroosh>div.m3:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m3>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m3>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px
+}
+div.topf>div.foroosh>div.m3>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+}
+div.topf>div.foroosh>div.m4{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 290px;
+    top: 60px;
+
+}
+div.topf>div.foroosh>div.m4:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m4>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m4>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m4>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 160px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m5{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 290px;
+    top: 180px;
+
+}
+div.topf>div.foroosh>div.m5:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m5>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m5>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px
+}
+div.topf>div.foroosh>div.m5>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 160px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m6{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 290px;
+    top: 300px;
+}
+div.topf>div.foroosh>div.m6:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m6>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m6>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m6>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+}
+div.topf>div.foroosh>div.m7{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 580px;
+    top: 60px;
+
+}
+div.topf>div.foroosh>div.m7:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m7>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m7>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m7>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 160px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m8{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 580px;
+    top: 180px;
+
+}
+div.topf>div.foroosh>div.m8:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m8>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m8>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m8>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 160px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m9{
+    width: 280px;
+    height: 100px;
+
+    position: absolute;
+    right: 580px;
+    top: 300px;
+}
+div.topf>div.foroosh>div.m9:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m9>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m9>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m9>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+}
+div.topf>div.foroosh>div.m10{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    right: 870px;
+    top: 60px;
+}
+div.topf>div.foroosh>div.m10:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m10>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m10>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m10>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 180px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m11{
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    right: 870px;
+    top: 180px;
+
+}
+div.topf>div.foroosh>div.m11:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m11>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: -10px;
+}
+div.topf>div.foroosh>div.m11>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m11>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+    width: 180px;
+    direction: rtl;
+    height: 70px;
+    border-bottom: 0.5px dotted lightgrey;
+}
+div.topf>div.foroosh>div.m12{
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    right: 870px;
+    top: 300px;
+}
+div.topf>div.foroosh>div.m12:hover{
+    cursor: pointer;
+}
+div.topf>div.foroosh>div.m12>img{
+    width: 86px;
+    height: 86;
+    position: absolute;
+    right: 0;
+}
+div.topf>div.foroosh>div.m12>h1{
+    color: #6ABFD3;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+div.topf>div.foroosh>div.m12>p{
+    color: rgb(80, 80, 80);
+    position: absolute;
+    right: 120px;
+    top: 30px;
+    font-family: fa;
+}
+/* -------------------------------oon yedoonehe ----------------------------------------------------- */
+div.soloboi{
+    width: 100%;
+    height: 200px;
+}
+div.soloboi>div.solo{
+    width: 1200px;
+    height: 180px;
+    margin: 10px auto;
+    border-radius: 15px;
+}
+div.soloboi>div.solo>a>img{
+    width: 1200px;
+    height: 180px;
+    border-radius: 15px;
+}
+/* --------------------------------------montakhab---------------------------------------------------- */
+div.chosen{
+    width: 100%;
+    height: 950px;
+}
+div.chosen>div.montakhab{
+    width: 1200px;
+    height: 900px;
+    margin: 10px auto;
+
+    border: 1px dotted lightgrey;
+    border-radius: 15px;
+    position: relative;
+}
+div.chosen>div.montakhab>div.mon{
+    width: 100%;
+    height: 50px;
+
+    margin-top: 10px;
+    position: relative;
+}
+div.chosen>div.montakhab>div.mon>h3{
+    font-family: fa;
+}
+div.chosen>div.montakhab>div.mon>h3>img{
+    width: 25px;
+    height: 25px;
+}
+div.chosen>div.montakhab>div.mon1{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 35px;
+    top: 75px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon1>figure{
+    margin-left: 12px;
+}
+div.chosen>div.montakhab>div.mon1:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon2{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 255px;
+    top: 75px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon2>figure{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+div.chosen>div.montakhab>div.mon2:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon3{
+    width: 240px;
+    height: 250px;
+
+    position: absolute;
+    left: 475px;
+    top: 75px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon3>figure{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+div.chosen>div.montakhab>div.mon3:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon4{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 715px;
+    top: 75px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon4>figure{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+div.chosen>div.montakhab>div.mon4:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon5{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 935px;
+    top: 75px;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon5>figure{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+div.chosen>div.montakhab>div.mon5:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon6{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 35px;
+    top: 325px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon6>figure{
+    margin-left: 0px;
+    margin-top: 2px;
+}
+div.chosen>div.montakhab>div.mon6:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon7{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 255px;
+    top: 325px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon7>figure{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+div.chosen>div.montakhab>div.mon7:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon8{
+    width: 240px;
+    height: 250px;
+
+    position: absolute;
+    left: 475px;
+    top: 325px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon8>figure{
+    margin-left: 20px;
+    margin-top: 8px;
+}
+div.chosen>div.montakhab>div.mon8:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon9{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 715px;
+    top: 325px;
+    border-right:1px dotted lightgrey ;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon9>figure{
+    margin-left: 12px;
+    margin-top: 4px;
+}
+div.chosen>div.montakhab>div.mon9:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon10{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 935px;
+    top: 325px;
+    border-bottom: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon10>figure{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+div.chosen>div.montakhab>div.mon10:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon11{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 935px;
+    top: 575px;
+}
+div.chosen>div.montakhab>div.mon11>figure{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+div.chosen>div.montakhab>div.mon11:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.mon12{
+    width: 220px;
+    height: 250px;
+
+    position: absolute;
+    left: 715px;
+    top: 575px;
+    border-right:1px dotted lightgrey ;
+    border-left: 1px dotted lightgrey;
+}
+div.chosen>div.montakhab>div.mon12>figure{
+    margin-left: 12px;
+    margin-top: 4px;
+}
+div.chosen>div.montakhab>div.mon12:hover{
+    cursor: pointer;
+}
+div.chosen>div.montakhab>div.moshad{
+    width: 150px;
+    height: 50px;
+
+    position: absolute;
+    bottom: 0;
+    left: 550px;
+}
+div.chosen>div.montakhab>div.moshad>a{
+    font-family: fa;
+    color: #6ABFD3;
+}
+/*-------------------------------------------- khoondani ha ----------------------------------------------*/
+div.readm{
+    width: 100%;
+    height: 350px;
+
+    position: relative;
+    font-family: fa;
+}
+div.readm>div.readable{
+    width: 1200px;
+    height: 400px;
+    margin: 10px auto;
+    position: relative;
+}
+div.readm>div.readable>div.head1{
+   width: 150px;
+   height: 50px;
+ 
+   position:absolute;
+   top: 10px;
+   right: 0;
+}
+div.readm>div.readable>div.head1>h3{
+    font-family: fa;
+}
+div.readm>div.readable>div.head2{
+    width: 200px;
+    height: 50px;
+
+    position:absolute;
+    top: 10px;
+    left: 30px;
+ }
+ div.readm>div.readable>div.head2>a{
+    font-family: fa;
+    text-decoration: none;
+    color: #6ABFD3;
+    font-size: small;
+ }
+ div.readm>div.readable>div.content1{
+    width: 290px;
+    height: 250px;
+
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    border-radius: 15px;
+    border: 1px solid lightgrey;
+}
+ div.readm>div.readable>div.content1>img{
+    width: 289px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+ }
+ div.readm>div.readable>div.content1>p{
+    margin-right: 10px;
+    font-size: small;
+ }
+ div.readm>div.readable>div.content2{
+    width: 290px;
+    height: 250px;
+
+    position: absolute;
+    top: 60px;
+    left: 310px;
+    border-radius: 15px;
+    border: 1px solid lightgrey;
+}
+ div.readm>div.readable>div.content2>img{
+    width: 288px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+ }
+ div.readm>div.readable>div.content2>p{
+    margin-right: 10px;
+    font-size: small;
+ }
+ div.readm>div.readable>div.content3{
+    width: 290px;
+    height: 250px;
+
+    position: absolute;
+    top: 60px;
+    left: 610px;
+    border-radius: 15px;
+    border: 1px solid lightgrey;
+}
+ div.readm>div.readable>div.content3>img{
+    width: 289px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+ }
+ div.readm>div.readable>div.content3>p{
+    margin-right: 10px;
+    font-size: small;
+ }
+ div.readm>div.readable>div.content4{
+    width: 290px;
+    height: 250px;
+
+    position: absolute;
+    top: 60px;
+    left: 910px;
+    border-radius: 15px;
+    border: 1px solid lightgrey;
+}
+ div.readm>div.readable>div.content4>img{
+    width: 289px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+ }
+ div.readm>div.readable>div.content4>p{
+    margin-right: 10px;
+    font-size: small;
+ }
+ div.readm>div.readable>div.content1>img:hover{
+    cursor: pointer;
+ }
+ div.readm>div.readable>div.content2>img:hover{
+    cursor: pointer;
+ }
+ div.readm>div.readable>div.content3>img:hover{
+    cursor: pointer;
+ }
+ div.readm>div.readable>div.content4>img:hover{
+    cursor: pointer;
+ }
+

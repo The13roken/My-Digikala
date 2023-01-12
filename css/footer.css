@@ -1,0 +1,374 @@
+div.digipa{
+   width: 100%; 
+   height: 120px;
+   border-top: 1px solid rgba(211, 211, 211, 0.589);
+   position: relative;
+}
+div.digipa>div.digip{
+    width: 1200px;
+    height: 100px;
+    margin: 20px auto;
+    position: relative;
+}
+div.digipa>div.digip>div.dg{
+    width: 115px;
+    height: 30px;
+    position: absolute;
+    right: 10px;
+}
+div.digipa>div.digip>a>div.borobala{
+    width: 140px;
+    height: 40px;
+    border: 1px solid lightgrey ;
+    border-radius:15px;
+}
+div.digipa>div.digip>a>div.borobala>p{
+    font-family: fa;
+    color: grey;
+    position: absolute;
+    left: 30px;
+    top: 5px;
+    font-size: small;
+}
+div.digipa>div.digip>div.contacts>p{
+    font-family: fa;
+    direction: rtl;
+}
+/* ------------------------------------------------------oon 5 ta -------------------------------------- */
+div.fiveboi{
+    width: 100%;
+    height: 120px;
+    position: relative;
+}
+div.fiveboi>div{
+    width: 1200px;
+    height: 120px; 
+    margin: auto;
+    position: relative;
+}
+div.fiveboi>div>img{
+    position: absolute;
+    left: 10px;
+}
+div.fiveboi>div>img:hover{
+    cursor: pointer;
+}
+/* ----------------------------------------------ooni ke neveshte ziad dare :( -------------------------- */
+div.nev{
+    width: 100%;
+    height: 260px;
+    position: relative;
+    font-family: fa;
+}
+div.nev>div.bev{
+    width: 1200px;
+    height: 250px;
+    margin: auto;
+    position: relative;
+}
+div.nev>div.bev>div.badg{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    right: 0;
+}
+div.nev>div.bev>div.badg>h4{
+    color: black;
+}
+div.nev>div.bev>div.badg>a{
+    right: 0;
+    position: absolute;
+    color:grey;
+}
+div.nev>div.bev>div.khadamat{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    right: 300px;
+}
+div.nev>div.bev>div.khadamat>h4{
+    color: black;
+}
+div.nev>div.bev>div.khadamat>a{
+    right: 0;
+    position: absolute;
+    color:grey;
+}
+div.nev>div.bev>div.rahnama{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    right: 600px;
+}
+div.nev>div.bev>div.rahnama>h4{
+    color: black;
+}
+div.nev>div.bev>div.rahnama>a{
+    right: 0;
+    position: absolute;
+    color:grey;
+}
+div.nev>div.bev>div.hamrah{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    right: 900px;
+}
+div.nev>div.bev>div.hamrah>h4{
+    color: black;
+}
+div.nev>div.bev>div.hamrah>a.apa{
+    color: grey;
+    position: absolute;
+    left: 80px;
+    margin-top: 10px;
+}
+div.nev>div.bev>div.hamrah>a.lin{
+    color: grey;
+    position: absolute;
+    left: 140px;
+    margin-top: 10px;
+}
+div.nev>div.bev>div.hamrah>a.twi{
+    color: grey;
+    position: absolute;
+    left: 200px;
+    margin-top: 10px;
+}
+div.nev>div.bev>div.hamrah>a.ins{
+    color: grey;
+    position: absolute;
+    left: 260px;
+    margin-top: 10px;
+}
+div.nev>div.bev>div.hamrah>a>img{
+    width: 30px;
+    height: 30px;
+    color: grey;
+}
+div.nev>div.bev>div.hamrah>div.sabt{
+    width: 50px;
+    height: 50px;
+    background-color:#E0E0E6 ;
+    position: absolute;
+    top: 140px;
+    border-radius: 5px;
+}
+div.nev>div.bev>div.hamrah>div.sabt>a.sabt{
+    font-family: fa;
+    color: white;
+    position: absolute;
+    top: 5px;
+    right: 15px;
+}
+div.nev>div.bev>div.hamrah>h4.dovo{
+    color: black;
+    position: absolute;
+    top: 95px;
+    right: 0;
+}
+#email{
+    background-color:#F1F2F4 ;
+    border: unset;
+    position: absolute;
+    right: 0;
+    top: 140px;
+    width: 240px;
+    height: 50px;
+    border-radius: 10px;
+    font-family: fa;
+    font-size: 16px;
+}
+/* ------------------------------------------------tanha boi ------------------------------------------- */
+div.sol{
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+div.sol>div.soli{
+    width: 1200px;
+    height: 76px;
+    margin: auto;
+    border-radius: 10px;
+    background-color:#3C4B6D ;
+    position: relative;
+}
+div.sol>div.soli>img{
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+div.sol>div.soli>p{
+    font-family: fa;
+    font-size: 25px;
+    color:white;
+    position: absolute;
+    right: 70px;
+    top: 10px;
+}
+div.sol>div.soli>div{
+    width: 44px;
+    height: 44px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.sol>div.soli>div>a.dots>img{
+    width: 44px;
+    height: 44px;
+}
+div.sol>div.soli>a.sib>img{
+    width: 142px;
+    height: 44px;
+    position: absolute;
+    left: 80px;
+    top: 15px;
+}
+div.sol>div.soli>a.myk>img{
+    width: 142px;
+    height: 50px;
+    position: absolute;
+    left: 230px;
+    top: 12px;
+}
+div.sol>div.soli>a.baz>img{
+    width: 142px;
+    height: 50px;
+    position: absolute;
+    left: 380px;
+    top: 12px;
+}
+div.sol>div.soli>a.goo>img{
+    width: 142px;
+    height: 50px;
+    position: absolute;
+    left: 530px;
+    top: 12px;
+}
+/* ------------------------------------------------yeki moonde be akhari -------------------------------- */
+div.yekimoonde{
+    width: 100%;
+    height: 280px;
+    position: relative;
+}
+div.yekimoonde>div.hello{
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    border-top: 1px solid rgba(211, 211, 211, 0.473);
+    border-bottom: 1px solid rgba(211, 211, 211, 0.473);
+}
+div.yekimoonde>div.hello>div.nebe{
+    width: 620px;
+    height: 140px;
+    margin-top: 20px;
+    direction: rtl;
+    font-family: fa;
+    position: absolute;
+    right: 0;
+}
+div.yekimoonde>div.hello>div.dozdi{
+    font-family: fa;
+    width: 860px;
+    direction: rtl;
+    position: absolute;
+    font-size: smaller;
+    right: 130px;
+    bottom: -50px;
+}
+div.yekimoonde>div.hello>div.dozdi>p{
+    color: grey;
+}
+div.yekimoonde>div.hello>div.nebe>p{
+    font-size: 12px;
+    color: grey;
+}
+div.yekimoonde>div.hello>div.nebe>a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+div.yekimoonde>div.hello>div.nebe>a>i{
+    color:#36C7D8 ;
+}
+div.yekimoonde>div.hello>div.li1{
+    width: 110px;
+    height: 110px;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 10px;
+    border: 1px solid lightgrey;
+}
+div.yekimoonde>div.hello>div.li1>figure>img{
+    width: 79px;
+    height: 79px;
+    margin-top: 10px;
+}
+div.yekimoonde>div.hello>div.li1>figure>img:hover{
+    cursor: pointer;
+}
+div.yekimoonde>div.hello>div.li2{
+    width: 110px;
+    height: 110px;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 10px;
+    left: 120px;
+    border: 1px solid lightgrey;
+}
+div.yekimoonde>div.hello>div.li2>figure>img{
+    width: 60px;
+    height: 75px;
+    margin-top: 10px;
+    
+}
+div.yekimoonde>div.hello>div.li2>figure>img:hover{
+    cursor: pointer;
+}
+div.yekimoonde>div.hello>div.li3{
+    width: 110px;
+    height: 110px;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 10px;
+    left: 240px;
+    border: 1px solid lightgrey;
+}
+div.yekimoonde>div.hello>div.li3>figure>img{
+    width: 79px;
+    height: 79px;
+    margin-top: 10px;
+}
+div.yekimoonde>div.hello>div.li3>figure>img:hover{
+    cursor: pointer;
+}
+/* -----------------------------------------akhariiiiiiiiiiiii :D --------------------------------------- */
+div.akhari{
+    width: 100%;
+    height: 160px;
+    background-color:#F1F2F4 ;
+    position: relative;
+}
+div.akhari>div.bye{
+    width: 1400px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+div.akhari>div.bye>div.mohtavii{
+    width: 1200px;
+    height: auto;
+    position: absolute;
+    left: 10px;
+}
+div.akhari>div.bye>div.mohtavii>img:hover{
+    cursor: pointer;
+}

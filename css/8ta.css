@@ -1,0 +1,66 @@
+div.eighta{
+    width: 100%;
+    height: 150px;
+    position: relative;
+    direction: rtl;
+    text-align: center;
+    margin-top: 30px;
+}
+div.eighta>div.jam>a>figure{
+    display: inline-block;
+    margin: 5px 30px;
+}
+div.eighta>div.jam>a>figure>img{
+    display: inline-block;
+    width: 50px;
+}
+div.eighta>div.jam>a{
+    text-decoration: none;
+    color: black;
+    font-family: fa;
+}
+div.eighta>div.jam>div{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: top;
+}
+div.eighta>div.jam>div>div{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    line-height: 50px;
+    border-radius: 50%;
+    background-color: #F0F0F1;
+    margin-right: 40px;
+}
+div.eighta>div.jam>div>div>a:nth-of-type(1){
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 30px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    color: rgb(160, 158, 158);
+}
+div.eighta>div.jam>div>div>a:nth-of-type(2){
+    display: inline-block;
+    font-family: fa;
+    text-decoration: none;
+    color: black;
+    width: 30px;
+    height: 30px;
+    line-height: 62px;
+    padding-bottom: 20px;
+    vertical-align: top;
+}
